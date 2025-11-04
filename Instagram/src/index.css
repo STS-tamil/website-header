@@ -1,0 +1,63 @@
+.w-20{
+  width: 20%;
+}
+.w-30{
+  width: 30%;
+}
+.logo-text{
+  width: 150px;
+}
+
+.bi{
+  margin-right: 10px;
+}
+
+.story{
+  height: 90px;
+  padding: 10px;
+}
+
+.dp{
+  height: 30px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+.post{
+  width: 400px;
+}
+.suggestions{
+  width: 85%;
+}
+
+.suggestions h5{
+  font-size: 16px;
+}
+
+.suggestions .dp{
+  height: 25px;
+  margin-top: 0px !important;
+}
+
+.gradient-border{
+  width: 55px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg,#ff00ff, #ff6600, #ffcc00);
+}
+.story-dp{
+  width: 50px;
+}
+.suggestion-container {
+  position: sticky;
+  top: 90px; /* adjust based on your navbar */
+}
+.sidebar-menu div {
+  cursor: pointer;
+}
+.profile{
+  width: 100px;
+  height: 100px;
+}

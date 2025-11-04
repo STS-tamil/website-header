@@ -1,0 +1,167 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "travel_with_anu",
+      "userImage": "/userImage1.jpg",
+      "postImage": "/postImage1.jpg",
+      "caption": "Sunsets and palm trees 🌴☀️ #vacayvibes",
+      "likes": 324,
+      "time": "2 hours ago",
+      "comments": [
+        {
+          "id": 1,
+          "username": "wanderlust_dude",
+          "text": "That view is incredible 😍"
+        },
+        {
+          "id": 2,
+          "username": "photoqueen",
+          "text": "Wish I was there!"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "dev_coder",
+      "userImage": "/userImage2.jpg",
+      "postImage": "/postImage2.jpg",
+      "caption": "Coding and coffee ☕💻 #developerlife",
+      "likes": 512,
+      "time": "5 hours ago",
+      "comments": [
+        {
+          "id": 1,
+          "username": "frontend_girl",
+          "text": "Relatable 😂"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "foodie_mani",
+      "userImage": "/userImage3.jpg",
+      "postImage": "/postImage3.jpg",
+      "caption": "Pasta nights 🍝❤️ #foodlover",
+      "likes": 127,
+      "time": "1 day ago",
+      "comments": [
+        {
+          "id": 1,
+          "username": "chef_tanu",
+          "text": "Looks delicious!"
+        },
+        {
+          "id": 2,
+          "username": "tastebudz",
+          "text": "What’s the recipe? 👀"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "username": "artsy_ava",
+      "userImage": "/userImage4.jpg",
+      "postImage": "/postImage4.jpg",
+      "caption": "Color explosion 🎨✨ #abstractart",
+      "likes": 205,
+      "time": "3 days ago",
+      "comments": []
+    },
+    {
+      "id": "5",
+      "username": "fitness_raj",
+      "userImage": "/userImage5.jpg",
+      "postImage": "/postImage5.jpg",
+      "caption": "Early morning workout 💪 #NoExcuses",
+      "likes": 654,
+      "time": "5 days ago",
+      "comments": [
+        {
+          "id": 1,
+          "username": "fit_girl",
+          "text": "Motivating 🔥"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "travel_with_anu",
+    "userImage": "/userImage1.jpg"
+  },
+  "suggestion": [
+    {
+      "id": "7",
+      "username": "dev_coder",
+      "userImage": "/userImage2.jpg"
+    },
+    {
+      "id": "8",
+      "username": "artsy_ava",
+      "userImage": "/userImage4.jpg"
+    },
+    {
+      "id": "9",
+      "username": "fitness_raj",
+      "userImage": "/userImage5.jpg"
+    },
+    {
+      "id": "10",
+      "username": "travel_anu",
+      "userImage": "/userImage1.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "travel_with_anu",
+      "userImage": "/userImage1.jpg",
+      "postImage": "/forest.jpg"
+    },
+    {
+      "id": "2",
+      "username": "dev_coder",
+      "userImage": "/userImage2.jpg",
+      "postImage": "/mountain_river.jpg"
+    },
+    {
+      "id": "3",
+      "username": "foodie_mani",
+      "userImage": "/userImage3.jpg",
+      "postImage": "/Road.jpg"
+    },
+    {
+      "id": "4",
+      "username": "artsy_ava",
+      "userImage": "/userImage4.jpg",
+      "postImage": "/ocean.jpg"
+    },
+    {
+      "id": "5",
+      "username": "fitness_raj",
+      "userImage": "/userImage5.jpg",
+      "postImage": "/sun_set.webp"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "username": "travel_with_anu",
+      "userImage": "/userImage1.jpg"
+    },
+    {
+      "id": "2",
+      "username": "dev_coder",
+      "userImage": "/userImage2.jpg"
+    },
+    {
+      "id": "8",
+      "username": "artsy_ava"
+    },
+    {
+      "id": "9",
+      "username": "fitness_raj"
+    }
+  ]
+}

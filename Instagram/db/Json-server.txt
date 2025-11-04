@@ -1,0 +1,5 @@
+use this command to create a JSON server in local device 
+db = i mentioned here should be your folder name
+dbase.json = this file should be also be in your file name that is in under db folder
+
+npx json-server --watch db/dbase.json --port 3000 --static ./db
